@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Noto+Sans+JP&family=Rubik+Bubbles&family=Source+Sans+Pro:wght@900&display=swap');
+/* Container holding the image and the text */
+.container-fluid {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  /* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+  /* These did not work */
+.heroheading{
+    font-family: 'Rubik Bubbles';
+    font-size: 6.4rem;
+    margin-bottom: 6.2rem;
+  }
+
+.herosubheading{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 2rem;
+    line-height: 1.2;
+  }

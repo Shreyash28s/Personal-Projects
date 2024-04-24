@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block content%}
+<div class="con section-contact">
+    <h1 class="heading-primary mid">Register</h1>
+      <form action="/signup" method="post">
+        <label for="name">Username</label>
+        <input type="text" name="username" placeholder="Username">
+
+        <label for="password">Password</label>
+        <input type="text"  name="password" placeholder="Password">
+
+        <label for="Confirmation">Confirmation</label>
+        <input type="text"  name="confirmation" placeholder="Re-enter password">
+
+
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+{%endblock%}
