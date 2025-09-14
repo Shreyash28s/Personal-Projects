@@ -7,13 +7,6 @@ Each project lives in its own folder with code + a dedicated README.
 
 ## Projects
 
-### Wushu Online – Tutorial Web Platform (Flask, Python, SQLite, HTML/CSS)
-- Built a full-stack web application for martial arts tutorials using Flask and SQLite with CS50’s SQL library.  
-- Implemented user authentication and session management, restricting access to tutorials until login/registration.  
-- Designed a responsive HTML/CSS frontend with dynamic navigation bar, hover animations, and multiple content pages.  
-- Integrated a YouTube-based tutorial library, simulating a real-world educational platform.  
-
----
 
 ### Bank Marketing Prediction – Machine Learning Model (Python, Scikit-learn, Pandas, Seaborn)
 - Developed an end-to-end ML pipeline on a dataset of 45,000+ records to predict client term deposit subscriptions.  
@@ -61,3 +54,12 @@ Each project lives in its own folder with code + a dedicated README.
 - Demonstrated skills in parallel computing, concurrency trade-offs, and performance analysis.  
 
 ---
+
+### Wushu Online – Tutorial Web Platform (Flask, Python, SQLite, HTML/CSS)
+- Built a full-stack web application for martial arts tutorials using Flask and SQLite with CS50’s SQL library.  
+- Implemented user authentication and session management, restricting access to tutorials until login/registration.  
+- Designed a responsive HTML/CSS frontend with dynamic navigation bar, hover animations, and multiple content pages.  
+- Integrated a YouTube-based tutorial library, simulating a real-world educational platform.  
+
+---
+
